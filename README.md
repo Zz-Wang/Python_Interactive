@@ -8,4 +8,4 @@ offered by Rice University
 Games are built on the online platform codeskulptor, using mainly simpleGui.
 
 ===================
-By Zhizheng Wang
+By Zz
